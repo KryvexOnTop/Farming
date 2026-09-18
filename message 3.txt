@@ -1,4 +1,5 @@
 local whitelist = {
+    [“XxKARQNLIKLORD”] = true,
     ["Rafael25IC"] = true,
     ["elpepe2929290"] = true,
     ["Doritosdezz_0"] = true,
